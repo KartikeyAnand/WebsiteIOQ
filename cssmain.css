@@ -1,7 +1,7 @@
 .top {
-    background-color: #023047 ;
+    background-color: #023047;
     height : 100px;
-    border-bottom: 10px solid #219EBC ;
+    border-bottom: 10px solid #219ebc ;
     display: flex;
     margin:auto;
     padding:0;
@@ -17,12 +17,12 @@
 .body{
     padding: 0 ;
     margin: 0 ;
-    background-color: #FFB703;
+    background-color: #ffb703;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .logotext{
-    color: #FFB703;
+    color: #ffb703;
     font-size: 100px;
     font-weight: bold;
     text-align: center;
@@ -30,6 +30,7 @@
     text-shadow: 3px 3px #af820f;
     padding-top: 10px;
     user-select: none;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .backimg{
@@ -58,15 +59,16 @@
     margin-bottom: 0;
     font-weight: bold;
     user-select: none;
+    font-family: 'Times New Roman', Times, serif;
 }
 .middle{
-    background: #219EBC;
+    background: #8ecae6;
     height:auto;
     width : 100%;
 }
 .end{
     background-color: #023047;
-    height:auto;
+    height:100%;
     width:100%;
 }
 .contact{
@@ -84,4 +86,12 @@ a:visited,
 a:hover,
 a:active {
   color: #FB8500;
+}
+.tagline{
+    padding-bottom: 10px;
+    margin: 0;
+    color: #023047;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
 }
