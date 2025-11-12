@@ -5,7 +5,7 @@
     display: flex;
     margin:auto;
     padding:0;
-    justify-content: center;
+    justify-content: space-evenly;
     
 }
 .logo1{
@@ -95,3 +95,4 @@ a:active {
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
 }
+
